@@ -1,0 +1,60 @@
+.nav-wrapper {
+    padding-left: 200px;
+}
+
+.row {
+    margin-top: 30px;
+}
+
+    .row .circle {
+        max-width: 40%;
+        margin-left: 60px;
+        margin-top: 10px;
+    }
+
+    .row h5 {
+        text-align: center;
+        font-size: 20px;
+        margin-top: auto;
+    }
+
+    .row p {
+        text-align: center;
+        margin-top: auto;
+        font-size: smaller;
+    }
+
+    .row i {
+        padding-right: 5px;
+    }
+
+    .row .social {
+        text-align: center;
+        margin-top: 20px;
+    }
+/*.socialicons {
+    text-align: center;
+    margin-top: 20px;*/
+}
+
+    .socialicons a {
+        max-width: 20px;
+        margin-left: 10px;
+    }
+
+.row p {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#listImnge li{
+	text-align: center;
+}
+#listImnge{
+	display: inline-flex;
+}
+#listImnge li a img{
+	    width: 20%;
+}
+
+
